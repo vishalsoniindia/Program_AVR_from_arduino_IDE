@@ -1,0 +1,19 @@
+Attiny85/45/25/84/44/24 :-  
+
+https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json 
+
+
+_______________________________________
+
+
+Atmega8/48/88/168/328 :-
+
+https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json
+
+
+________________________________________
+
+Atmega32/16/8535/164P/164PA/164A/324P/324PA/324A/324PB/644/664P/664PA/664A/1284/1284P
+
+
+https://mcudude.github.io/MightyCore/package_MCUdude_MightyCore_index.json
