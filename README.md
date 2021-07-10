@@ -1,5 +1,11 @@
 # Program_AVR_from_arduino_IDE
 In this tutorial you can upload program in any AVR controller from arduino IDE. you can also upload hex file in any AVR.
+you can find arduino pinout for AVR controllers list given below.
+Attiny25/45/85
+Attiny24/44/84
+Atmega8/48/88/168/328
+Atmega8535/16/32
+
 
 _________________________________________________
 
