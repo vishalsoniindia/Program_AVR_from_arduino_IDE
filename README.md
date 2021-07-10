@@ -18,3 +18,11 @@ ________________________________________________
 [![alt text](https://img.youtube.com/vi/DxuucFgY1B4/0.jpg)](https://youtu.be/DxuucFgY1B4)
 
 ![alt text](https://github.com/vishalsoniindia/Program_AVR_from_arduino_IDE/blob/main/Program%20AVR%20with%20arduino%20circuit.png)
+
+![alt text](https://github.com/vishalsoniindia/Program_AVR_from_arduino_IDE/blob/main/Arduino%20Pinouts%20for%20AVR/Attiny25_45_85.jpg)
+
+![alt text](https://github.com/vishalsoniindia/Program_AVR_from_arduino_IDE/blob/main/Arduino%20Pinouts%20for%20AVR/atmega8_48_88_168_328.jpg)
+
+![alt text](https://github.com/vishalsoniindia/Program_AVR_from_arduino_IDE/blob/main/Arduino%20Pinouts%20for%20AVR/Attiny24_44_84.jpg)
+
+![alt text](https://github.com/vishalsoniindia/Program_AVR_from_arduino_IDE/blob/main/Arduino%20Pinouts%20for%20AVR/Atmega8535_16_32.png)
